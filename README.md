@@ -23,7 +23,7 @@ samples, guidance on mobile development, and a full API reference.
  height="400px" width="200px" />
 
 
-https://github.com/rutvik4940/clock_app/assets/153794371/a1421cc8-4eac-460a-a601-03f5a4fbfb65"
+https://github.com/rutvik4940/clock_app/assets/153794371/a1421cc8-4eac-460a-a601-03f5a4fbfb65
 
   
 </p>
