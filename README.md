@@ -22,8 +22,8 @@ samples, guidance on mobile development, and a full API reference.
  <img src="https://github.com/rutvik4940/clock_app/assets/153794371/3bd73a3f-d99e-4e17-978c-9b9e9b05dbc4"
  height="400px" width="200px" />
 
- <video>=
-"https://github.com/rutvik4940/clock_app/assets/153794371/a1421cc8-4eac-460a-a601-03f5a4fbfb65"
- </video>
+
+https://github.com/rutvik4940/clock_app/assets/153794371/a1421cc8-4eac-460a-a601-03f5a4fbfb65"
+
   
 </p>
